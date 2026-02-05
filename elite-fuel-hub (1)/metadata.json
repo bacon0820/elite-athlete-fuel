@@ -1,0 +1,7 @@
+{
+  "name": "Elite Fuel Hub",
+  "description": "A high-performance nutrition and training dashboard for collegiate athletes on a budget, featuring AI-powered meal analysis and personalized coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
